@@ -43,17 +43,26 @@ The application runs locally on your computer. Your notes are never sent to a cl
 
 ## Screenshots
 
+Add your PNG screenshots to the [`docs/`](docs/) folder using these filenames:
+
+- `notes.png`
+- `dashboard.png`
+- `users.png`
+- `setting.png`
+
+Once added, they will appear here automatically on GitHub:
+
 ### Notes
-![Notes](docs/notes.png)
+![Notes screenshot](docs/notes.png)
 
 ### Dashboard
-![Dashboard](docs/dashboard.png)
+![Dashboard screenshot](docs/dashboard.png)
 
 ### User Management
-![Users](docs/users.png)
+![User management screenshot](docs/users.png)
 
 ### Settings
-![Settings](docs/settings.png)
+![Settings screenshot](docs/setting.png)
 
 ## Features
 
