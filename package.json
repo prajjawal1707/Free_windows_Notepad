@@ -1,0 +1,18 @@
+{
+  "name": "my-desktop-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "npm install && npm install --prefix frontend && pip install -r backend/requirements-dev.txt",
+    "dev:backend": "python backend/run.py",
+    "dev:sidecar-placeholder": "python scripts/build-backend.py --placeholder",
+    "dev": "tauri dev",
+    "build:backend": "python scripts/build-backend.py",
+    "build": "python scripts/build-backend.py && tauri build",
+    "test:backend": "cd backend && python -m pytest -q",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
