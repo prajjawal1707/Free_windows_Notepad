@@ -1,41 +1,37 @@
 # My Desktop App — A Simple Notes App for Windows
 
+## A Letter About Why I Made It
 
-***A letter why i made it?**
+Dear reader,
 
-**Sometimes, letting go costs you more than you could ever imagine.**
+Sometimes, letting go costs you more than you could ever imagine.
 
-**For the last two years, I had been collecting pieces of myself in one place — tech startup ideas, project concepts, unfinished plans, random thoughts, and poems I kept writing.**
+For the last two years, I had been collecting pieces of myself in one place: tech startup ideas, project concepts, unfinished plans, random thoughts, and poems I kept writing.
 
-*Why did they disappear?*
+Why did they disappear?
 
-**Because I had kept almost everything in one place. When I lost access to that place and its stored data, I lost more than just notes. I lost ideas I had spent months thinking about, poems I might never be able to recreate, and countless little pieces of my journey.**
+Because I had kept almost everything in one place. When I lost access to that place and its stored data, I lost more than just notes. I lost ideas I had spent months thinking about, poems I might never be able to recreate, and countless little pieces of my journey.
 
-**A few things I had shared publicly may still exist somewhere. But most of it is gone.**
+A few things I had shared publicly may still exist somewhere, but most of it is gone. And honestly, that hurts.
 
-**And honestly, that hurts.**
+So instead of just regretting the loss, I decided to build something.
 
-***So instead of just regretting the loss, I decided to build something.***
+Introducing **Free Windows Notepad** — a simple, lightweight, offline-first notes app for Windows.
 
-*Introducing **Free Windows Notepad** — a simple, lightweight, offline-first notes app for Windows.*
+I built it because I do not want people to underestimate the value of their everyday thoughts and ideas.
 
-**I built it because I don't want people to underestimate the value of their everyday thoughts and ideas.**
+If you are a developer, here is an invitation: take the source code, give the app your own name, customize the interface, add features, change its behavior, and make it your own within the license terms.
 
-*And if you're a developer, here's an invitation:*
+I want this little project to grow beyond me. I hope other developers build on it and make something that helps people protect their thoughts and ideas.
 
-**You can take the source code, give the app your own name, customize the interface, add features, change its behaviour, and make it your own within the license terms.**
-
-**I want this little project to grow beyond me. I hope other developers build on it and make something that helps people protect their thoughts and ideas.**
-
-**Maybe we can't bring back what we've lost, but we can build something so others don't have to experience the same thing.**
+Maybe we cannot bring back what we have lost, but we can build something so others do not have to experience the same thing.
 
 GitHub: https://github.com/prajjawal1707/Free_windows_Notepad
 
-**Because sometimes, the smallest notes hold the biggest parts of our lives.**
+Because sometimes, the smallest notes hold the biggest parts of our lives.
 
-
-
-
+Sincerely,  
+**The creator of Free Windows Notepad**
 
 **Write your thoughts. Close the app. Your notes stay yours.**
 
