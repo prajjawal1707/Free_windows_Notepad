@@ -1,4 +1,3 @@
-
 # My Desktop App — A Simple Notes App for Windows
 
 **Write your thoughts. Close the app. Your notes stay yours.**
