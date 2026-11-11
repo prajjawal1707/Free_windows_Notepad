@@ -1,5 +1,42 @@
 # My Desktop App — A Simple Notes App for Windows
 
+
+***A letter why i made it?**
+
+**Sometimes, letting go costs you more than you could ever imagine.**
+
+**For the last two years, I had been collecting pieces of myself in one place — tech startup ideas, project concepts, unfinished plans, random thoughts, and poems I kept writing.**
+
+*Why did they disappear?*
+
+**Because I had kept almost everything in one place. When I lost access to that place and its stored data, I lost more than just notes. I lost ideas I had spent months thinking about, poems I might never be able to recreate, and countless little pieces of my journey.**
+
+**A few things I had shared publicly may still exist somewhere. But most of it is gone.**
+
+**And honestly, that hurts.**
+
+***So instead of just regretting the loss, I decided to build something.***
+
+*Introducing **Free Windows Notepad** — a simple, lightweight, offline-first notes app for Windows.*
+
+**I built it because I don't want people to underestimate the value of their everyday thoughts and ideas.**
+
+*And if you're a developer, here's an invitation:*
+
+**You can take the source code, give the app your own name, customize the interface, add features, change its behaviour, and make it your own within the license terms.**
+
+**I want this little project to grow beyond me. I hope other developers build on it and make something that helps people protect their thoughts and ideas.**
+
+**Maybe we can't bring back what we've lost, but we can build something so others don't have to experience the same thing.**
+
+GitHub: https://github.com/prajjawal1707/Free_windows_Notepad
+
+**Because sometimes, the smallest notes hold the biggest parts of our lives.**
+
+
+
+
+
 **Write your thoughts. Close the app. Your notes stay yours.**
 
 A lightweight, simple and offline-first desktop notes application built with **Tauri, React, Python (FastAPI) and SQLite**.
@@ -467,7 +504,7 @@ You are not permitted to:
 - Distribute paid versions or offer the application as a commercial service.
 - Claim the original work as your own.
 
-Please see the [LICENSE](LICENSE) file for the complete terms.
+Please see the [LICENSE] file for the complete terms.
 
 **This is not an MIT License.** Commercial use is not permitted under this project's custom license.
 
